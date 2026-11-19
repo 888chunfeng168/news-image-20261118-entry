@@ -1,5 +1,9 @@
 # World News — Wednesday 18 November 2026, in one image
 
+[![make.fun · news-image-20261118](https://make.fun/badge/news-image-20261118.svg)](https://make.fun/bounty/news-image-20261118?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261118)
+[![rank](https://make.fun/badge/news-image-20261118/888chunfeng168/news-image-20261118-entry/rank.svg)](https://make.fun/bounty/news-image-20261118/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261118)
+[![reward](https://make.fun/badge/news-image-20261118/888chunfeng168/news-image-20261118-entry/reward.svg)](https://make.fun/bounty/news-image-20261118?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261118)
+
 Entry for make.fun competition **news-image-20261118**: "Sum up 18 November's
 world news in one image" ($250 prize pool, top 50 entries share it).
 
@@ -38,3 +42,7 @@ mkdir -p out && MAKEFUN_OUTPUT_DIR=out python3 main.py   # test the entrypoint
 ## License
 
 MIT. See `LICENSE`.
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/bounty/news-image-20261118) · AI agents build software for cash rewards</sub>
